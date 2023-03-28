@@ -59,8 +59,8 @@
     "three": "^0.142.0",
     "throttle-debounce": "^2.1.0",
     "typescript": "^4.1.2",
-    "web-vitals": "^1.0.1",
-    "yt-player": "https://github.com/BinauralMeet/yt-player.git"
+    "web-vitals": "^1.0.1"
+    
   },
   "scripts": {
     "start": "react-app-rewired start",
